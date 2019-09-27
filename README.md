@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-MNISTデータ
-MobileNet V2
-.tflite
-Android Studioへの接続を目指す
++ MNISTデータ
++ MobileNet V2
++ .tflite
++ Android Studioへの接続を目指す
